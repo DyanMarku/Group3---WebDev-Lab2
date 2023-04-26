@@ -1,8 +1,8 @@
-# LA1_Group3_Deraco, Dumaraog, Garcia, Haber
+# LA2_Group3_Deraco, Dumaraog, Garcia, Haber
 
 (COMP 20163) Web Development
 
-Laboratory Activity #1 - Midterm Creating a Simple Webpage
+Laboratory Activity #2 - Midterm Creating a webpage for a local restaurant
 
 Submitted by:
 
@@ -13,4 +13,4 @@ Haber, Jhon Mark
 
 Submitted to: Professor Kris P. Garcia
 
-April 15, 2023
+April 26, 2023
